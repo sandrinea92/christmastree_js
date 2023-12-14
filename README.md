@@ -9,33 +9,4 @@ La première étoile de la base du sapin doit être collé au bord du terminal.
 Faire le code le plus court possible.
 Faire le code le plus optimisé pssible.
 
-Évidement, il est interdit de faire un copier-coller du sapin ! 
-
-Le résultat attendu :
-Niveau 1 - construire le sapin
-const taille = 2;
-
-  * 
- * * 
-* * *
-
-Niveau 2 - possibilité de changer le symbole
-const taille = 3;
-const symbole = "-";
-
-  - 
- - - 
-- - - 
-
-Niveau 3 - possibilité d'ajouter un symbole à la place du vide
-const taille = 5;
-const symbole = "x";
-const vide = "-";
-
-----x-
----x-x-
---x-x-x-
--x-x-x-x-
-x-x-x-x-x-
-
 Sur ce dépôt, voici ma réponse à l'exercice.
